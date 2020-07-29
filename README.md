@@ -2,7 +2,7 @@
 picture clustering<br>
 I write this in 2020/02/16<br>
 
-<h1>You can photo clustering</h1>
+<h1>You can cluster photo automaticaly</h1>
 
 <h2>what to prepare</h2>
 <ul>
